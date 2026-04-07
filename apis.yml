@@ -1,7 +1,12 @@
 aid: national-fuel-gas
-url: https://raw.githubusercontent.com/api-evangelist/national-fuel-gas/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/national-fuel-gas/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.national-fuel-gas.com
+description: >-
+  National Fuel Gas Company is a diversified energy company engaged in natural gas
+  distribution, gas pipeline and storage, gas exploration and production, and energy
+  marketing.
