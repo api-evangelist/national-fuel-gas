@@ -21,6 +21,8 @@ tags:
   - Utility
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/national-fuel-gas-company
   - type: Website
     url: https://www.nationalfuel.com/
   - type: InvestorRelations
