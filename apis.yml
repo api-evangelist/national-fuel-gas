@@ -22,6 +22,8 @@ tags:
   - Fortune 1000
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/national-fuel-gas-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/national-fuel-gas-company
   - type: Website
